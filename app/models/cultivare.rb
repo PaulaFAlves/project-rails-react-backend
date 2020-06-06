@@ -1,0 +1,2 @@
+class Cultivare < ApplicationRecord
+end
